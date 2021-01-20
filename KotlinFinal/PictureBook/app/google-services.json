@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553765180088",
+    "project_id": "picturebookfirebase",
+    "storage_bucket": "picturebookfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553765180088:android:33beb58f9451c147d95a4d",
+        "android_client_info": {
+          "package_name": "com.example.picturebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553765180088-snltd5da2r47qahglg31h9j5ltevsmno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSIcvh41PBIG6w29nrWydcIHWdOiaYKuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553765180088-snltd5da2r47qahglg31h9j5ltevsmno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
